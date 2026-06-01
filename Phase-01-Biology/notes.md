@@ -494,6 +494,40 @@ Before moving to Phase 2, make sure you can explain:
 
 ✅ FASTA format
 
+EXTRA INFO:
+
+1) "DNA serves as a template for RNA synthesis" means:
+
+👉 DNA acts like a master copy or blueprint.
+
+When a cell needs RNA, an enzyme called RNA polymerase reads one strand of DNA and builds a complementary RNA molecule from it.
+
+Example:
+
+DNA strand:
+
+ATGCCGTA
+
+RNA made from it:
+
+UACGGCAU
+
+Notice:
+
+DNA uses A, T, G, C
+RNA uses A, U, G, C (U replaces T)
+
+Think of it like this:
+
+📖 DNA = Original book
+📝 RNA = Copy of one chapter from the book
+
+The process of making RNA from DNA is called transcription.
+
+So, "DNA serves as a template" = DNA provides the information that RNA copies.
+
 ✅ BLAST concept
 
 ✅ NCBI, GenBank, UniProt, PDB, PubMed
+
+
