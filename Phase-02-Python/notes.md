@@ -141,3 +141,61 @@ Base counting
 GC content analysis
 Codon detection
 Basic automation
+
+EXTRA: 
+1)We calculate GC content because G (Guanine) and C (Cytosine) form 3 hydrogen bonds, while A (Adenine) and T (Thymine) form only 2 hydrogen bonds.
+
+G ≡ C   → 3 bonds
+A = T   → 2 bonds
+
+Because of this:
+
+More GC → DNA is more stable and harder to separate.
+Less GC → DNA is less stable and easier to separate.
+Why biologists care about GC content?
+DNA stability
+High GC DNA is stronger.
+Melting temperature (Tm)
+High GC → higher temperature needed to denature DNA.
+Species comparison
+Different organisms have different GC percentages.
+PCR primer design
+Primers need a suitable GC content (usually 40–60%).
+Can we calculate AT content?
+
+Yes!
+
+AT Content = %A + %T
+
+In fact:
+
+GC% + AT% = 100%
+
+So if GC content is 60%:
+
+AT content = 40%
+Example
+
+DNA:
+
+ATGCGC
+
+Count:
+
+A = 1
+T = 1
+G = 2
+C = 2
+Total = 6
+
+GC content:
+
+(2 + 2)/6 × 100
+= 66.7%
+
+AT content:
+
+(1 + 1)/6 × 100
+= 33.3%
+
+So AT content is not ignored; GC content is just more informative because it directly affects DNA stability, melting temperature, and many bioinformatics analyses.
